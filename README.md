@@ -123,3 +123,5 @@ Segmentasyon ve özellik mühendisliği süreçleri, bir tahmin modeli (örneği
 -Veri Geliştirme:
  -Daha fazla coğrafi ve ekonomik özellik (örneğin, GDP, nüfus) entegre edilerek veri zenginleştirilebilir.
 
+Projenin Kaggle Linki: https://www.kaggle.com/code/evvalarslan/notebookf971f50239
+
