@@ -109,6 +109,6 @@ Bu öneriler, enerji verilerinin daha verimli ve sürdürülebilir bir şekilde 
 - `README.md`: Proje açıklaması ve dokümantasyonu.
 
 ---
-Projenin Kaggle Linki: https://www.kaggle.com/code/evvalarslan/notebookf971f50239?scriptVersionId=208873021
+Projenin Kaggle Linki: https://www.kaggle.com/code/evvalarslan/notebookf971f50239
 
 
